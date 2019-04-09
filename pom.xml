@@ -9,7 +9,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <failOnMissingWebXml>false</failOnMissingWebXml>
   </properties>
-   <dependencies>
+
+  <dependencies>
     <!-- Servlet API -->
     <dependency>
       <groupId>javax.servlet</groupId>
